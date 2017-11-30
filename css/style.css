@@ -94,10 +94,7 @@ p {
 	font: normal 16px "Myriad Pro", arial, sans-serif;
 }
 
-h1,h2,h3,h4,h6 { color: #767676;}
-h5 { color: #003300;}
-
-/* cambio colores letras */
+h1,h2,h3,h4,h5,h6 { color: #767676;}
 
 h1 {
 	font-size: 48px;
@@ -318,10 +315,8 @@ a:hover{
 
 /* features section */
 .features{
-	background:#ff99ff;
+	background:#f3c30f;
 }
-
-/* cambio solores fondo */
 
 .sinle_features{
 	margin:50px 0px;
